@@ -1,0 +1,44 @@
+.navbar{
+   position: fixed;
+   width: 100%;
+z-index: 100;
+
+
+}
+.text{
+    color: yellow;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    font-size: x-large;
+  
+   
+}
+.text2{
+    color: yellow;
+    font-family: cursive;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 20px;
+  
+
+}
+
+
+.text2:hover{
+    color: white;
+}
+.whiteText{
+    color: #fff!important;
+    background-color: #fff;
+ 
+}
+.navbar-brand:hover{
+    color: yellow;
+} 
+.navbar-brand,.navbar-brand:active{
+    color: yellow;
+} 
+.navbar-brand:focus, .navbar-brand:hover{
+    color: yellow!important;
+}

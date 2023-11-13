@@ -1,0 +1,49 @@
+.body{
+    padding: 100px;
+      margin: 0;
+      background-color:black;
+  
+  height: 100%;
+  
+  
+  
+  }
+  .heading{
+      color: yellow;
+      font-family: cursive;
+      font-weight: bolder;
+      font-size: 50px;
+  }
+  .images{
+      height: 300px;
+      padding: 9px;
+      margin-top: 100px;
+      border-radius: 100%;
+      width: 325px;
+      border: solid 8px grey;
+     
+  }
+  
+      h4{
+          color: yellow;
+          font-weight: bolder;
+          padding-top: 30px;
+      }
+      
+  h6{
+      color: white;
+  }
+  .teamMember{
+     text-align: center;
+  }
+  .teamContainer{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  
+  }
+  
+    
+
+
+

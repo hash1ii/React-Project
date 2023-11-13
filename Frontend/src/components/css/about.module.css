@@ -1,0 +1,28 @@
+.body{
+    padding: 70px;
+    margin: 0;
+    
+    background-color: yellow;
+    height: 750px;
+    position: absolute;
+    top: 30px;
+
+}
+h1{
+   
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.images{
+    height: 300px;
+    padding: 9px;
+    margin-top: 100px;
+    border-radius: 100%;
+    width: 325px;
+    border: solid 8px grey;
+    margin: 5rem;
+    margin-right: 2rem;
+}
+    
+
